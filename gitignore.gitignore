@@ -15,7 +15,6 @@ ENV/
 .ipynb_checkpoints/
 
 # Modelos treinados
-*.pkl
 *.joblib
 
 # Dados
