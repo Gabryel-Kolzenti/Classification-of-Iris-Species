@@ -37,11 +37,6 @@ def carregar_imagem(caminho):
 
 st.title("🌸 Classificador de Espécies Iris")
 
-st.markdown("""
-Este dashboard utiliza um modelo de Machine Learning treinado com o dataset Iris
-para prever a espécie da flor com base nas medidas fornecidas.
-""")
-
 st.divider()
 
 # ==========================================
