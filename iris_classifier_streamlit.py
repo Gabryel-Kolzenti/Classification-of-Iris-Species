@@ -162,13 +162,13 @@ if st.button("🔍 Gerar Predição"):
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.image(carregar_imagem("img/Versicolor.jpg"))
+            st.image(carregar_imagem("img/Versicolor1.jpg"))
 
         with col2:
-            st.image(carregar_imagem("img/Versicolor.jpg"))
+            st.image(carregar_imagem("img/Versicolor2.jpg"))
 
         with col3:
-            st.image(carregar_imagem("img/Versicolor.jpg"))
+            st.image(carregar_imagem("img/Versicolor3.jpg"))
 
     # ------------------------------
     # IRIS Virginica
@@ -192,13 +192,13 @@ if st.button("🔍 Gerar Predição"):
         col1, col2, col3 = st.columns(3)
 
         with col1:
-            st.image(carregar_imagem("img/Virginica.jpg"))
+            st.image(carregar_imagem("img/Virginica1.jpg"))
 
         with col2:
-            st.image(carregar_imagem("img/Virginica.jpg"))
+            st.image(carregar_imagem("img/Virginica2.jpg"))
 
         with col3:
-            st.image(carregar_imagem("img/Virginica.jpg"))
+            st.image(carregar_imagem("img/Virginica3.jpg"))
 
 # ==========================================
 # RODAPÉ
