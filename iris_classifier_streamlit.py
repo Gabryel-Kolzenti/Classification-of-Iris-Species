@@ -37,8 +37,6 @@ def carregar_imagem(caminho):
 
 st.title("🌸 Classificador de Espécies Iris")
 
-st.divider()
-
 # ==========================================
 # INPUTS DO USUÁRIO
 # ==========================================
